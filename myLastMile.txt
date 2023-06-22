@@ -1,0 +1,7 @@
+# my last mile tasks
+
+strat
+execute
+verify
+submit
+end
