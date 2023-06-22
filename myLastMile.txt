@@ -1,6 +1,6 @@
 # my last mile tasks
 
-strat
+start
 agree
 execute
 verify
