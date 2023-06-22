@@ -1,6 +1,7 @@
 # my last mile tasks
 
 strat
+agree
 execute
 verify
 submit
